@@ -1,5 +1,5 @@
-# deposits
+# Semanticium — deposits
 
-Data only (JSON-LD): the list of every deposit — owner, source, and the link to its own repository (one repository per deposit, deposit-<name>). Site: deposits.semanticium.com (GitHub Pages), listing every deposit.
+The list of every Semanticium deposit, with its source and its own repository. Data only, in JSON-LD.
 
-No data yet. See ../PROJECT.md.
+Browse it at https://deposits.semanticium.com
